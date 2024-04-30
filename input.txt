@@ -1,12 +1,12 @@
-a 
-  a
-hola    
-  mundo
-sebastian sofia
-igual igual
-ababab baba
-baba ababab
-abeja oveja
-xxyxx xxxx
-ddeddedd dddddd
-pez zep
+sebastian-sofia
+sebastian-pescar
+sebastian-pocima
+sofia-sebastian
+sofia-pocima
+sofia-pescar
+pocima-sofia
+pocima-sebastian
+pocima-pescar
+pescar-pocima
+pescar-sofia
+pescar-sebastian
